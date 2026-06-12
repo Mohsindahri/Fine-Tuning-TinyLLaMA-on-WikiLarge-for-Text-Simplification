@@ -46,15 +46,7 @@ The prominent clinician conceptualized a novel therapeutic strategy to mitigate 
 **Output (Simplified):**
 This is an example of the common practice in medicine whereby a physician may use a less complex approach.
 
----
 
-## ⚠️ Limitations
-
-- Low BLEU score indicates limited semantic preservation
-- Occasional hallucination in generated text
-- Needs further training with instruction-based formatting
-
----
 
 ## 🔧 Future Improvements
 
